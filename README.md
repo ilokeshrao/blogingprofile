@@ -16,3 +16,11 @@ backendprojectsecond/
 │       ├── views/ (EJS templates)
 │       ├── public/ (CSS, JS, image files)
 │       └── app.js / server.js
+
+
+
+
+git clone https://github.com/ilokeshrao/blogingprofile.git
+cd blogingprofile/backendprojectsecond
+npm install
+npm start
