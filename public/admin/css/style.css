@@ -1,0 +1,14 @@
+#header{
+    background: linear-gradient(to right, rgb(249, 208, 3),rgb(32, 33, 30));
+    padding: 15px 0px;
+}
+#header h4{
+    color: black;
+}
+#header button{
+    float: right;
+}
+#mid h2{
+    text-align: center;
+    color: red;
+}
